@@ -1,7 +1,12 @@
+body{
+    background-color: #849FFF;
+}
 .bodybox{
+    margin: auto;
 border-radius: 20px;
 width: 90%;
 height: auto;
+background-color: aliceblue;
 }
 .user{
     padding: 30px 0px;
